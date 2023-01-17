@@ -1,2 +1,2 @@
-# Python_Programlama
+# Python Programlama
 Python Programlama Ders Örnekleri
